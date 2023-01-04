@@ -2,7 +2,7 @@ services:
   - type: web
     name: cal-web
     plan: standard
-    repo: https://github.com/phishy/docker-render.git
+    repo: https://github.com/calcom/docker-render.git
     env: docker
     envVars:
 
